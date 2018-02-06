@@ -1,0 +1,95 @@
+Body {
+   font-family: 'Josefin Slab', serif;
+   background-color: #37592c;
+    font-size: 20 ;
+}
+
+Header {
+   font-family: 'Homemade Apple', cursive;
+   background-color: #37592c;
+    font-size: 10 ;
+    color: #ffffff;
+}
+
+Main {
+   font-family: 'Homemade Apple', cursive;
+   background-color: #cbffad;
+    font-size: 10 ;
+    color: #ffffff;
+     display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+Aside {
+   background-color: white;
+    font-size: 10 ;
+    color: #ffffff;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+Footer {
+   background-color: #37592c;
+    font-size: 10 ;
+    color: white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+
+h2, h3, h4 {
+    background-color: white;
+    color: #37592c;
+    display: block;
+    width: 40%;
+    text-align: center;
+    }
+    
+h1 {    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    color: #37592c;    
+}
+
+    
+Ul {
+    background-color: #37592c;
+    font-size: 13 ;
+    color: black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+
+P {
+    font-size: 13 ;
+    color: black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+
+A {
+    font-size: 13 ;
+    color: white;
+}
+
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+
