@@ -1,17 +1,17 @@
-Body {
+body {
    font-family: 'Josefin Slab', serif;
    background-color: #37592c;
     font-size: 20 ;
 }
 
-Header {
+header {
    font-family: 'Homemade Apple', cursive;
    background-color: #37592c;
     font-size: 10 ;
     color: #ffffff;
 }
 
-Main {
+main {
    font-family: 'Homemade Apple', cursive;
    background-color: #cbffad;
     font-size: 10 ;
@@ -22,7 +22,7 @@ Main {
     width: 80%;
 }
 
-Aside {
+aside {
    background-color: white;
     font-size: 10 ;
     color: #ffffff;
@@ -32,7 +32,7 @@ Aside {
     width: 80%;
 }
 
-Footer {
+footer {
    background-color: #37592c;
     font-size: 10 ;
     color: white;
@@ -60,7 +60,7 @@ h1 {
 }
 
     
-Ul {
+ul {
     background-color: #37592c;
     font-size: 13 ;
     color: black;
@@ -71,7 +71,7 @@ Ul {
 }
 
 
-P {
+p {
     font-size: 13 ;
     color: black;
     display: block;
@@ -80,7 +80,7 @@ P {
     width: 80%;
 }
 
-A {
+a {
     font-size: 13 ;
     color: white;
 }
